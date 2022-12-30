@@ -306,6 +306,7 @@ ul {
   width: 100%;
   position: relative;
   align-items: center;
+  margin: auto;
 }
 
 .portfolio-project:nth-child(odd) {
