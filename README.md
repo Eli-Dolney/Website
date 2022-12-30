@@ -1,5 +1,3 @@
 # Website
-For personal webiste 
-Haven't got git yet on new PC 
-So I had to manually upload
-Soon ill set it up so I can auto-commit 
+working on personal website resume 
+Coding it with Html, CSS and Java 
